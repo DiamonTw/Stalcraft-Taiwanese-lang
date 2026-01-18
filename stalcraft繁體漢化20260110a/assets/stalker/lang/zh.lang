@@ -23197,10 +23197,10 @@ go.gurney.name=輪式擔架架
 go.dental_chair.name=牙科診療椅
 go.toilet.name=馬桶
 
-operation.classes.combat.name=突擊
-operation.classes.combat.desc=突擊職業擅長戰場控制、嘲諷敵人與傷害管理。其玩法基於攻擊性與生存能力的平衡，並能透過承受傷害來增強自身實力。
-operation.classes.scientist.name=支援
-operation.classes.scientist.desc=支援：此職業專精於團隊協助，結合了治療與防護能力。它能創造恢復區域、增強盟友生命力，並透過醫療子彈提供穩定的戰鬥支援。其技能使其成為不可或缺的成員，確保隊伍的生存。
+operation.classes.combat.name=突擊手
+operation.classes.combat.desc=突擊手職業擅長戰場控制、嘲諷敵人與傷害管理。其玩法基於攻擊性與生存能力的平衡，並能透過承受傷害來增強自身實力。
+operation.classes.scientist.name=醫生
+operation.classes.scientist.desc=醫生此職業專精於團隊協助，結合了治療與防護能力。它能創造恢復區域、增強盟友生命力，並透過醫療子彈提供穩定的戰鬥支援。其技能使其成為不可或缺的成員，確保隊伍的生存。
 operation.classes.combined.name=特工
 operation.classes.combined.desc=特工是擅長隱匿行動與精確打擊敵人的職業。它能對特定目標造成巨大傷害，並在需要時迅速消失。其風格較為謹慎：選擇攻擊目標、隱藏以重組或發動突襲，且當盟友在附近時會變得更強。
 
