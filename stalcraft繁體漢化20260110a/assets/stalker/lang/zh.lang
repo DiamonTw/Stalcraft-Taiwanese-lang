@@ -4130,7 +4130,7 @@ loadscreens.location.atp.name=消防局
 go.ops_lift.name=電梯
 go.ops_teleport_big.name=鐘-5
 go.ops_teleport_small.name=鐘-1
-go.ops_modification_table.name=思維機器
+go.ops_modification_table.name=模組制造器
 go.ops_reflector.name=反射器
 go.ops_kip.name=緊湊型精神干擾器
 
@@ -22596,7 +22596,7 @@ premium.perkBlocks.weekly_bonus.desc=解鎖額外的每日獎勵軌道，每天�
 premium.perkBlocks.all.title=其他特權
 premium.perkBlocks.all.details.1=個人倉庫額外置物架
 premium.perkBlocks.all.details.2=賽季通行證任務的額外替換次數
-premium.perkBlocks.all.desc=使用 STALCRAFT Premium，享受真正的舒適體驗。
+premium.perkBlocks.all.desc=使用 STALCRAFT 高級會員，享受真正的舒適體驗。
 
 item.amm.temporary=彈藥數值為暫時性
 
